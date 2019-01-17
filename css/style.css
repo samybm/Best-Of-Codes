@@ -1,0 +1,137 @@
+
+    * {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+  
+    body {
+      background-image: linear-gradient(rgb(4, 4, 70), rgb(255, 0, 64));
+     
+    }
+
+    .container { background-image: url('../images/background/pic4.jpg');
+                padding: 10px;
+    }
+
+    /*IMAGES 
+                               */
+
+    .img {
+      height: 200px;
+      background-image: url('../images/AClocks.jpg');
+      background-size: cover;
+    }
+
+    .img2 {
+    height: 200px;
+    background-image: url('../images/AClocks.jpg');
+    background-size: cover;
+      }
+
+  
+      .img4 {
+          height: 200px;
+          background-image: url('../images/moonlanding.jpg');
+          background-size: cover;
+      }
+
+      .img5 {
+             height: 200px;
+             background-image: url('../images/sunnygif.jpg');
+             background-size: cover;
+      }
+      .img3 {
+        height: 200px;
+        background-image: url('../images/recipesearcher.jpg');
+        background-size: contain;
+      }
+
+      .img6 {
+        height: 200px;
+        background-image: url('../images/DinnerTab.jpg');
+        background-size: cover;
+      }
+    
+    
+    .img-fluid {
+        height: 100px;
+        width: 50%;
+    }
+
+    /* FORMATING    */
+    
+    .jumbotron {
+      background-image: linear-gradient( rgb(240, 9, 240), rgb(52, 170, 131));
+      padding: 10px;
+    }
+    
+    h1 {
+      color: rgb(241, 226, 9);
+    }
+
+    h2 {
+      color: rgb(250, 19, 2);
+      font-size: 35px;
+      font-display: bold;
+    }
+
+    h3 {
+      font-size: 200%;
+      color: rgb(240, 9, 240);
+    }
+
+    h4 {
+      color: rgb(250, 246, 2);
+      font-size: 35px;
+      font-display: bold;
+      font-style: underline;
+    }
+
+
+    h5 {
+      font-size: 25px;
+      color: rgb(17, 13, 245);
+    }
+
+    h6 {
+      color: rgb(232, 12, 85);
+      font-size: 25px;
+    }
+    
+    #title { 
+      color: rgb(231, 231, 230);
+    
+    }
+
+
+    .col-3 {
+      color: yellow;
+      font-size: 25px;
+    }
+
+  
+    .FOOTER {
+      color: yellow;
+      background-color: black;
+      text-align: center;
+    
+    }
+
+
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+    
+    
+      
